@@ -1,10 +1,21 @@
-Atividade 1: Conhecendo HTML e hospedando uma página na WEB
+Atividade 1: Conhecendo HTML e Hospedando uma Página na Web
+Objetivo
+Criar uma página HTML simples, estilizar com CSS e hospedá-la na web utilizando o GitHub Pages. Após a hospedagem, o link de acesso à página e o repositório devem ser compartilhados.
 
-Criação e hospedagem da primeira página HTML Nessa atividade é apresentado o passo-a-passo para criação de uma página HTML e sua respectiva hospedagem. Todos os procedimentos devem ser executados para que o ambiente de trabalho do curso fique funcional no que diz respeito à hospedagem das páginas produzidas.
+Passos
+Criação da Página HTML
 
-Para conseguir criar sua primeira página HTML você deve:
+Estruture uma página HTML com cabeçalho, corpo e rodapé.
+Inclua títulos, parágrafos, links e outros elementos básicos.
+Estilização com CSS
 
-A atividade “Conhecendo HTML e hospedando uma página na WEB” deverá ser realizada através da criação de uma página HTML simples e sua publicação no Github.io, depois de criada e hospedada a página o aluno deverá disponibilizar o link de acesso para esta página, bem como o repositório onde a mesma está armazenada.
+Personalize a página utilizando CSS, ajustando cores, fontes e disposição dos elementos.
+Hospedagem no GitHub Pages
 
-Link para acessar a página:
+Crie um repositório no GitHub, faça o commit dos arquivos da página.
+Habilite o GitHub Pages no repositório para publicar sua página.
+Compartilhamento
+
+Após a hospedagem, forneça o link da página publicada e o link do repositório GitHub.
+Link da página hospedada:
 https://miguelxmauricio.github.io/Atividade-1---Desenvolvimento-Web/
