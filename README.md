@@ -30,7 +30,3 @@ Acesse a página hospedada através do link abaixo:
 
 [https://miguelxmauricio.github.io/Atividade-1---Desenvolvimento-Web/](https://miguelxmauricio.github.io/Atividade-1---Desenvolvimento-Web/)
 
-## Repositório GitHub
-O código-fonte da página pode ser encontrado no seguinte repositório:
-
-[https://github.com/miguelxmauricio/Atividade-1---Desenvolvimento-Web](https://github.com/miguelxmauricio/Atividade-1---Desenvolvimento-Web)
